@@ -7,11 +7,11 @@ We will create a desktop application that allows customers to buy used cars. Thi
 
 - [Rj Straiton]
 - [Alex Thomas]
-- [David Obasi]
+
 
 [Rj Straiton]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/RJ%20Straiton%20Resume.md>
-[Alex Thomas]: <https://google.com>
-[David Obasi]: <https://google.com>
+[Alex Thomas]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Alex%20Thomas%20Resume.md>
+
 
 ## Team Assignments
 (insert link to markdown file)
