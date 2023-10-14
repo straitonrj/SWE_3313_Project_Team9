@@ -30,4 +30,5 @@ We will create a desktop application that allows customers to buy used cars. Thi
 
 ## Project Plan Video Presentation
 -[Project Plan Presentation] 
-[Project Plan Presentation]: <https://youtu.be/bbIEKdya0l8>
+
+  [Project Plan Presentation]: <https://youtu.be/bbIEKdya0l8>
