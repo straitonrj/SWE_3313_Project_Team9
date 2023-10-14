@@ -29,6 +29,6 @@ We will create a desktop application that allows customers to buy used cars. Thi
   [YouTrack Gantt Chart]: <https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-23>
 
 ## Project Plan Video Presentation
--[Project Plan Presentation] 
+- [Project Plan Presentation] 
 
   [Project Plan Presentation]: <https://youtu.be/bbIEKdya0l8>
