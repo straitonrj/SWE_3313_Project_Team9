@@ -24,9 +24,9 @@ We will create a desktop application that allows customers to buy used cars. Thi
   [Technology Selection File]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Tech_Selection.md>
 
 ## Project Plan
-- [Gantt Chart]
+- [YouTrack Gantt Chart]
 
-  [Gantt Chart]: <https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-23>
+  [YouTrack Gantt Chart]: <https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-23>
 
 ## Project Plan Video Presentation
 (insert link to video in github repo)
