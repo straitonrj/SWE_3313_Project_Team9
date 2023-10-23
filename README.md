@@ -14,14 +14,14 @@ We will create a desktop application that allows customers to buy used cars. Thi
 
 
 ## Team Assignments
-- [Team Assignments File]
+- [Team Assignments]
 
-  [Team Assignments File]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Team9_Assignments.md>
+  [Team Assignments]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Team9_Assignments.md>
 
 ## Technology Selection
-- [Technology Selection File]
+- [Technology Selection]
 
-  [Technology Selection File]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Tech_Selection.md>
+  [Technology Selection]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Tech_Selection.md>
 
 ## Project Plan
 - [YouTrack Gantt Chart]
