@@ -32,3 +32,8 @@ We will create a desktop application that allows customers to buy used cars. Thi
 - [Project Plan Presentation] 
 
   [Project Plan Presentation]: <https://youtu.be/bbIEKdya0l8>
+
+## Requirements
+- [Requirements README]
+
+[Requirements README]:<https://github.com/straitonrj/SWE_3313_Project_Team9/tree/main/Requirements#requirements>
