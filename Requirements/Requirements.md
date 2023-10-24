@@ -7,7 +7,7 @@
         - Must have
         - 3 days of effort
         - Functional
-        - Inventory must have a name, a picture, a price (stored in base 10), and a description of the item.
+        - Inventory must have a name, a picture, a USD price (stored in base 10), and a description of the item.
        - Add/Remove Inventory: T9S-2
          - Must have
          - 3 days of effort
@@ -35,4 +35,13 @@
         - 5 days of effort
         - Non-functional
         - When logging in, the system must check if the username and password given matches the information stored in the database.
-      - 
+        
+  - User Types
+    - Create Users: T9E-4
+      - Create User class: T9S-7
+        - Must have
+        - 1/4 day of effort
+        - Non-functional
+        - User class will contain unique username,six character minimum password, and unique ID, and allow for self-registration, logging in, and buying inventory. It will also store whether or not the user is an admin.
+    - Create Admin abilities: T9S-8:
+      
