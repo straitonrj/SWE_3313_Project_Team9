@@ -1,0 +1,38 @@
+# Requirements 
+
+- Version 1
+  - Create Database
+    - Inventory: T9E-1
+      - Create the Inventory: T9S-1
+        - Must have
+        - 3 days of effort
+        - Functional
+        - Inventory must have a name, a picture, a price (stored in base 10), and a description of the item.
+       - Add/Remove Inventory: T9S-2
+         - Must have
+         - 3 days of effort
+         - Functional
+         - Admins need a way to add inventory to the system. When a user buys an item, it must be removed from list of available inventory.
+        - Available Inventory: T9S-3
+          - Must have
+          - 4 days of effort
+          - Functional
+          - Users must be able to see available items sorted by highest to lowest in terms of price. 
+        - Search Inventory: T9S-4
+          - Must have
+          - 5 days of effort
+          - Functional
+          - Users must be able to search for an available item rather than browsing the main page for it.
+    - Sales Report: T9E-2
+      -  Create the Sales Report: T9S-5
+         - Must have
+         - 3 days of effort
+         - Functional
+         - Admins must be able to view a collective sales report that describes who bought the item and when the item was bought.
+    - Users: T9E-3
+      - Create a database for all users: T9S-6
+        - Must have
+        - 5 days of effort
+        - Non-functional
+        - When logging in, the system must check if the username and password given matches the information stored in the database.
+      - 
