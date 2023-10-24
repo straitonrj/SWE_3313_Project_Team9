@@ -11,8 +11,10 @@ and of course a written requirements document.
 ## Decision Table
 - Link to the decision table
 
-## Requirements Document
-- Link to the doc
+## Requirements
+- [Requirements]
+
+[Requirements]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Requirements/Requirements.md>
 
 ## Presentation
 - Link to presentation
