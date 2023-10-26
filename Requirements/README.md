@@ -9,7 +9,9 @@ and of course a written requirements document.
 [Use case diagram]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Requirements/Use%20Case.png>
 
 ## Decision Table
-- Link to the decision table
+- [Decision Table]
+
+[Decision Table]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Requirements/Decision%20Table.md>
 
 ## Requirements
 - [Requirements]
