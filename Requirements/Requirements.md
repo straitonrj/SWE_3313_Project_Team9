@@ -75,7 +75,7 @@
                 - Must have
                 - 1 day of effort
                 - Functional
-                - User will select from one of three shipping speeds: overnight shipping, three-day shipping, or standard shipping. The cost for these shipping speeds are twenty-nine dollars, nineteen dollars, and zero dollars respectively.
+                - User will select from one of three shipping speeds: overnight shipping, three-day shipping, or standard shipping. The cost for these shipping speeds is twenty-nine dollars, nineteen dollars, and zero dollars respectively.
         - Create the confirm order page: T9E-7
             - List all items in cart and price: T9S-14
                 - Must have
@@ -86,4 +86,23 @@
                 - Must have
                 - 2 days of effort
                 - Functional
-                - When the user chooses to complete their order, the items they bought will be taken out of the inventory. The user will also be shown a reciept which will look like the confirm order page but will include the last four digits of their credit card as well as their shipping address. 
+                - When the user chooses to complete their order, the items they bought will be taken out of the inventory. The user will also be shown a receipt which will look like the confirm order page but will include the last four digits of their credit card as well as their shipping address.
+- Version 2
+  - Future Admin Abilities
+    - Add abilities to admins: T9E-8 
+      -  Create the ability to export sales reports to CSV: T9S-16
+          - Needs
+          - 2 days of effort
+          - Functional
+          - Admins should be able to export the sales report to a CSV file. 
+      -  Create the ability to view receipts: T9S-17
+          -   Wants to have
+          -   2 days of effort
+          -   Functional
+          -   When an admin clicks on a sold item, they should see the associated receipt.
+      -  Create the admin promotion/demotion UI CSV: T9S-18     
+          -   Wants to have
+          -   2 days of effort
+          -   Functional
+          -  Admins should have a UI to promote customers to admins or demote other admins. 
+ 
