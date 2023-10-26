@@ -112,9 +112,9 @@
           - Admins want to be able to use a page to enter the information, and a picture, and have the item added to the database.
   - Future Checkout Policy
       - Add new policy to checkout: T9E-9
-        - Create automated email reciepts: T9S-20
+        - Create automated email receipts: T9S-20
             -   Wants to have
             -   2 days of effort
             -   Functional
-            -   Users should recieve an email copy of their reciept after confirming their order. 
+            -   Users should receive an email copy of their receipt after confirming their order. 
  
