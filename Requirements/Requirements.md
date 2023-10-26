@@ -37,11 +37,53 @@
         - When logging in, the system must check if the username and password given matches the information stored in the database.
         
   - User Types
-    - Create Users: T9E-4
+    - Establish user rolls: T9E-4
       - Create User class: T9S-7
         - Must have
         - 1/4 day of effort
         - Non-functional
-        - User class will contain unique username,six character minimum password, and unique ID, and allow for self-registration, logging in, and buying inventory. It will also store whether or not the user is an admin.
-    - Create Admin abilities: T9S-8:
-      
+        - User class will contain unique username, six character minimum password and unique ID, and allow for self-registration, logging in, and buying inventory. It will also store whether or not the user is an admin.
+      - Create Admin abilities: T9S-8:
+          - Must have
+          - 1/2 day of effort
+          - Non-functional
+          - Admins must be able to promote other users to admin, add and remove inventory, and view a sales report.
+   - Checkout
+       - Create shopping cart: T9E-5
+          - Show list of items in cart: T9S-10
+            - Must have
+            - 1/4 day of effort
+            - Functional
+            - Users must see a list of items in the cart and the subtotal cost of those items. If the user's cart is empty, the user will be unable to click checkout. 
+          -  Add/Remove items to the cart: T9S-9
+              - Must have
+              - 1 day of effort
+              - Functional
+              - Users must have a button to add items to their cart, as well as a way to remove items from the cart. If all items are removed from the cart, the user will be taken to the homepage.
+        - Establish payment process: T9E-6
+            - Starting the payment process: T9S-11
+                - Must have
+                - 1 day of effort
+                - Functional
+                - Users will select a "Pay Now" button that will start the payment process. Users should be able to return to shopping at any time.
+            - The system requires user information: T9S-12
+                - Must have
+                - 3 days of effort
+                - Functional
+                - User will have to give the system a shipping address, their credit card information, and a phone number.
+            - Selecting shipping speed: T9S-13
+                - Must have
+                - 1 day of effort
+                - Functional
+                - User will select from one of three shipping speeds: overnight shipping, three-day shipping, or standard shipping. The cost for these shipping speeds are twenty-nine dollars, nineteen dollars, and zero dollars respectively.
+        - Create the confirm order page: T9E-7
+            - List all items in cart and price: T9S-14
+                - Must have
+                - 1 day of effort
+                - Functional
+                - Users must see a list of all items in their cart, the subtotal, the added six percent sales tax, the cost of the selected shipping speed, and the grand total cost.
+            - Complete the transaction process: T9S-15
+                - Must have
+                - 2 days of effort
+                - Functional
+                - When the user chooses to complete their order, the items they bought will be taken out of the inventory. The user will also be shown a reciept which will look like the confirm order page but will include the last four digits of their credit card as well as their shipping address. 
