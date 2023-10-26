@@ -50,16 +50,16 @@
           - Admins must be able to promote other users to admin, add and remove inventory, and view a sales report.
    - Checkout
        - Create shopping cart: T9E-5
+           - -  Add/Remove items to the cart: T9S-9
+              - Must have
+              - 1 day of effort
+              - Functional
+              - Users must have a button to add items to their cart, as well as a way to remove items from the cart. If all items are removed from the cart, the user will be taken to the homepage.
           - Show list of items in cart: T9S-10
             - Must have
             - 1/4 day of effort
             - Functional
             - Users must see a list of items in the cart and the subtotal cost of those items. If the user's cart is empty, the user will be unable to click checkout. 
-          -  Add/Remove items to the cart: T9S-9
-              - Must have
-              - 1 day of effort
-              - Functional
-              - Users must have a button to add items to their cart, as well as a way to remove items from the cart. If all items are removed from the cart, the user will be taken to the homepage.
         - Establish payment process: T9E-6
             - Starting the payment process: T9S-11
                 - Must have
@@ -104,5 +104,17 @@
           -   Wants to have
           -   2 days of effort
           -   Functional
-          -  Admins should have a UI to promote customers to admins or demote other admins. 
+          -  Admins should have a UI to promote customers to admins or demote other admins.
+      - Create the add/remove inventory UI: T9S-19
+          - Wants to have
+          - 3 days of effort
+          - Functional
+          - Admins want to be able to use a page to enter the information, and a picture, and have the item added to the database.
+  - Future Checkout Policy
+      - Add new policy to checkout: T9E-9
+        - Create automated email reciepts: T9S-20
+            -   Wants to have
+            -   2 days of effort
+            -   Functional
+            -   Users should recieve an email copy of their reciept after confirming their order. 
  
