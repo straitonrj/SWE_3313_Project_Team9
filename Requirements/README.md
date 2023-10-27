@@ -19,4 +19,6 @@ and of course a written requirements document.
 [Requirements]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Requirements/Requirements.md>
 
 ## Presentation
-- Link to presentation
+- [Presentation]
+
+[Presentation]: <https://youtu.be/yA0XU6sNvDw>
