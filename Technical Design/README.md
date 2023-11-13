@@ -4,7 +4,10 @@ Here you will find all relevant work for the Technical Design of our *UCars* pro
 
 ## Coding Style Guide
 
-- (Insert link to coding style guide)
+- [Coding Style Guide]
+
+
+  [Coding Style Guide]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Technical%20Design/Coding%20Style%20Guide.md>
 
 ## Technical Design
 
