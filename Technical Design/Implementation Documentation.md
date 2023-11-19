@@ -29,6 +29,11 @@
     
     [Geeks for Geeks' Swing Tutorial]: <https://www.geeksforgeeks.org/introduction-to-java-swing/>
 ## Data Storage Plan
-- A single blank line will seperate blocks of code which are grouped together.
-- Blank lines may also appear anywhere which might improve the legibility of the code.
+- The UCars application will store data using JSON.
+- Our developers chose JSON due to the high value placed on JSON experience wthin this industry.
+- Specifically, are using the JSON.simple toolkit that was developed to create a smooth transition between Java and JSON
+- Here is the quick guide that has helped our developers learn how to use JSON.simple:
+    - [Tutorials Point's Quick Guide to JSON.simple]
+
+  [Tutorials Point's Quick Guide to JSON.simple]: <https://www.tutorialspoint.com/json_simple/json_simple_quick_guide.htm>
 
