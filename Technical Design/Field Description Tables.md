@@ -28,7 +28,7 @@
 | Property | Type | Default | Nullable | Relationship | Notes |
 |----------|------|---------|----------|--------------|-------|
 |  SalesID  | Primary key, integer, identity | N/A | No |   | Unique for every sale |
-|  TotalAmount  | Double  | 0   | No |       |       |
 |  UserID  | Foreign key, integer   | N/A   | No         | Related to User.UserID |       |
 |  InventoryID     | Foreign key, integer  | N/A   | No | Related to Inventory.InventoryID |       |
 |  ShippingID   | Foreign key, integer | N/A | No       | Related to Shipping.ShippingID |     |
+|  TotalCost  | Double  | 0   | No |       |       |
