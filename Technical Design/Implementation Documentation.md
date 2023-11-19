@@ -21,11 +21,11 @@
   - Swing is newer and more valuble to the team members learning it
 - Current team members have no experience with either JavaFX or Swing, so there is not a large diffrence in risk when choosing Swing over JavaFX
 -  Here are some tools to help new members learn Swing:
-  - [Oracle's Swing Package Summary]
+    - [Oracle's Swing Package Summary]
     
     [Oracle's Swing Package Summary]: <https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html>
     
-  - [Geeks for Geeks' Swing Tutorial]
+    - [Geeks for Geeks' Swing Tutorial]
     
     [Geeks for Geeks' Swing Tutorial]: <https://www.geeksforgeeks.org/introduction-to-java-swing/>
 ## Data Storage Plan
