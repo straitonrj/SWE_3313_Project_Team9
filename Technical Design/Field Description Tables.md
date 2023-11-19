@@ -32,4 +32,4 @@
 |  InventoryID     | Foreign key, integer  | N/A   | No | Related to Inventory.InventoryID |       |
 |  ShippingID   | Foreign key, integer | N/A | No       | Related to Shipping.ShippingID |     |
 |  TotalCost  | Double  | 0   | No |       |       |
-|  SaleDate  | Integer | N/A   | No |       |       |
+
