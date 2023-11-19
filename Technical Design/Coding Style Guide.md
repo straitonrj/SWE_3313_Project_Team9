@@ -21,6 +21,9 @@ together and the first letter of each word will be capitalized.
 - Open and close braces must line up to better readability, especially in the case of classes or nested statements.
 - Open brackets will not take up an entire line, they will be placed at the end of the previous line of code.
 
+           public int getUserID(){
+              return UserID;                 
+           }
 ## Comments
 
 - A comment should be added above complex methods to give a brief explanation of what it does.
@@ -29,3 +32,10 @@ together and the first letter of each word will be capitalized.
 This way, another developer can find where the issue is and work to solve it. 
 
 ## File Naming
+- Files will also follow UpperCamelCase if multiple words are necessary
+- Java files will be named after the highest relevant class, followed by .java.
+
+   - Ex: Users.java
+- JSON files will be named after the data stored within the file, followed by .json.
+
+   - Ex: Inventory.json
