@@ -40,5 +40,10 @@ Here you will find all relevant work for the Technical Design of our *UCars* pro
   [Example and Seed Data Tables]: <https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Technical%20Design/Example%20and%20Seed%20Data%20Tables.md>
   
 
+## Technical Design Video Presentation
 
+- [Video Presentation]
+
+
+  [Video Presentation]: <https://youtu.be/Bhtldvl00ZI>
 
