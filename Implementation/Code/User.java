@@ -1,3 +1,5 @@
+package org.UCars;
+
 public class User {
     private static int NumOfUsers=1;
     private static int UserID;

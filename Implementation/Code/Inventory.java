@@ -1,3 +1,5 @@
+package org.UCars;
+
 public class Inventory {
     private static int NumOfInventory = 1;
     private int InventoryID;
@@ -12,5 +14,20 @@ public class Inventory {
         InventoryID = NumOfInventory;
         NumOfInventory++;
     }
-    
+
+    public double getPrice(){
+        return Price;
+    }
+    public void setPrice(double p){
+        Price =p;
+    }
+    public int getInventoryID(){
+        return InventoryID;
+    }
+    public String getName(){
+        return Name;
+    }
+    public String getDescription(){
+        return Description;
+    }
 }
