@@ -44,3 +44,13 @@ We will create a desktop application that allows customers to buy used cars. Thi
 
 [Marvel Prototype]:<https://marvelapp.com/prototype/c26703b>
 [User Interface Design Presentation]:<https://www.youtube.com/watch?v=eFNmFdKw7_Y>
+
+## Technical Design
+- [Technical Design README]
+
+[Technical Design README]:<https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Technical%20Design/README.md>
+
+## Implementation
+- [Implementation README]
+
+[Implementation README]:<https://github.com/straitonrj/SWE_3313_Project_Team9/blob/main/Implementation/README.md>
