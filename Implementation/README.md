@@ -23,7 +23,7 @@ view a comprehensive sales report.
 ## Final Presentation
 - [Final Presentation Video]
 
-[Final Presentation Video]:<[google.com](https://www.youtube.com/watch?v=MJY3e4_kg94)>
+[Final Presentation Video]:<https://www.youtube.com/watch?v=MJY3e4_kg94>
 
 ## Version 1 of *UCars*
 - [*UCars* Version 1.3]
