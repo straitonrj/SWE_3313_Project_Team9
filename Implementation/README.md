@@ -11,14 +11,10 @@ view a comprehensive sales report.
 ## How to setup *UCars*
 *UCars* is able to run all on systems that have the most recent update for the IntelliJ IDE. To run our software, please follow the following instructions:
   - Download the complete project file from this README.
+  - Make sure you have the latest version of the Oracle JDK.
   - Run IntelliJ and open the project file from the top left corner of IntelliJ.
   - Once the file is opened, navigate to the Main.java file under the src/main folder and the java/org/UCars folder underneath that.
   - Click the green button that says "run" while the Main.java file is opened and the program will execute. 
-
-## Implementation Presentation
-- [Presentation]
-
-[Presentation]: <google.com>
 
 ## Final Presentation
 - [Final Presentation Video]
