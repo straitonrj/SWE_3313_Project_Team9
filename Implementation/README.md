@@ -23,9 +23,9 @@ view a comprehensive sales report.
 ## Final Presentation
 - [Final Presentation Video]
 
-[Final Presentation Video]:<google.com>
+[Final Presentation Video]:<[google.com](https://www.youtube.com/watch?v=MJY3e4_kg94)>
 
 ## Version 1 of *UCars*
-- [*UCars* Version 1]
+- [*UCars* Version 1.3]
 
-[*UCars* Version 1]:<github.com>
+[*UCars* Version 1.3]:<https://github.com/straitonrj/SWE_3313_Project_Team9/tree/main/Implementation/Code/Integrated%20Code%20V.1.3>
