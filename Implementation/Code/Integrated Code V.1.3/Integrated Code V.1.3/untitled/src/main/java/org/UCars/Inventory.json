@@ -1,0 +1,13 @@
+[
+  {"Description":"Best car on the market. It goes at the speed of light, and stays a ghost in the night.","Price":45000000,"InventoryID":1,"Name":"Ghost", "ImageURL" : "https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg"},
+  {"Description":"BRIGHT ASS LIGHTS AND IM TAILGATING U BITCH","Price":765.43,"InventoryID":2,"Name":"Truck"},
+  {"Description":"A nice red car in good condition. Fresh wheels, used brakes, and a recently replaced transmission. ","Price":22190,"InventoryID":3,"Name":"Coupe", "ImageURL" : "https://upload.wikimedia.org/wikipedia/commons/0/07/2018_Infiniti_Q60_Leonberg_IMG_0156.jpg"},
+  {"Description":"A nice purple car in good condition. Ready for any street race. ","Price":30000,"InventoryID":4,"Name":"Corvette", "ImageURL" : "https://i.imgur.com/lCjIaT0.jpeg"},
+  {"Description":"A nice blue finish. The car is in good condition. Ready for car show. ","Price":45000,"InventoryID":5,"Name":"Aventador", "ImageURL" : "https://i.imgur.com/ZNwYBBz.jpeg"},
+  {"Description":"An Absolute classic. This old truck is in perfect working condition ","Price":69000,"InventoryID":6,"Name":"Old Truck", "ImageURL" : "https://i.imgur.com/n8zjvZj.jpeg"},
+  {"Description":"A Classic Car. Not in working condition, but great for car shows or collections. ","Price":42000,"InventoryID":7,"Name":"Classical", "ImageURL" : "https://i.imgur.com/wxkLbRV.jpeg"},
+  {"Description":"This item is for demo purposes","Price":33000,"InventoryID":8,"Name":"Demo Car 1", "ImageURL" : "https://upload.wikimedia.org/wikipedia/commons/0/07/2018_Infiniti_Q60_Leonberg_IMG_0156.jpg"},
+  {"Description":"This item is for demo purposes ","Price":67350,"InventoryID":9,"Name":"Demo Car 2", "ImageURL" : "https://upload.wikimedia.org/wikipedia/commons/0/07/2018_Infiniti_Q60_Leonberg_IMG_0156.jpg"},
+  {"Description":"This item is for demo purposes ","Price":75000,"InventoryID":10,"Name":"Demo Car 3", "ImageURL" : "https://upload.wikimedia.org/wikipedia/commons/0/07/2018_Infiniti_Q60_Leonberg_IMG_0156.jpg"},
+  {"Description":"This item is for demo purposes ","Price":27863,"InventoryID":11,"Name":"Demo Car 4", "ImageURL" : "https://upload.wikimedia.org/wikipedia/commons/0/07/2018_Infiniti_Q60_Leonberg_IMG_0156.jpg"}
+]
