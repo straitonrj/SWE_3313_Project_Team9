@@ -2,6 +2,12 @@
 
 Here you will find all relevant work for the Implementation section of our *UCars* project. To aide our client in understanding how to set up the *UCars* software,
 we have left an explanation for the general process of running the program.
+
+## What is *UCars*?
+*UCars* is a user-oriented shopping application that will allow for new and existing users to browse and shop for the perfect car for them. Users are
+able to sign up, login, browse available inventory, and purchase a car. Admins are able to promote other users to admin, add new cars to the database, and
+view a comprehensive sales report. 
+
 ## How to setup *UCars*
 *UCars* is able to run all on systems that have the most recent update for the IntelliJ IDE. To run our software, please follow the following instructions:
   - Download the complete project file from this README.
@@ -13,3 +19,13 @@ we have left an explanation for the general process of running the program.
 - [Presentation]
 
 [Presentation]: <google.com>
+
+## Final Presentation
+- [Final Presentation Video]
+
+[Final Presentation Video]:<google.com>
+
+## Version 1 of *UCars*
+- [*UCars* Version 1]
+
+[*UCars* Version 1]:<github.com>
